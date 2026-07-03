@@ -1,0 +1,149 @@
+{
+  "Navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Programs & Services",
+    "news": "News",
+    "contact": "Contact",
+    "login": "Log In",
+    "register": "Sign Up",
+    "dropdown": {
+      "jobs": "Job Opportunities",
+      "training": "Training",
+      "fellowships": "Fellowships & Grants",
+      "employerResources": "Employer Resources",
+      "volunteering": "Volunteering"
+    }
+  },
+  "Home": {
+    "heroTitle": "Find the perfect talents for your projects",
+    "heroSubtitle": "Hire experts who use AI to amplify their talent, turning complex work into high impact business outcomes.",
+    "tabHire": "I want to hire",
+    "tabWork": "I want to work",
+    "searchPlaceholder": "Describe what you need...",
+    "searchBtn": "Search",
+    "skills": {
+      "web": "Web design",
+      "ai": "AI development",
+      "video": "Video editing",
+      "ads": "Google Ads"
+    },
+    "trustedBy": "TRUSTED BY 800,000 CLIENTS",
+    "howItWorks": {
+      "badge": "How it works",
+      "title": "It's Easy to Get Work Done",
+      "subtitle": "The digital solution provider for your business needs",
+      "step1": {
+        "title": "Post a Job",
+        "desc": "Create your free job posting today and start receiving competitive quotes from qualified professionals within just a few hours.",
+        "link": "Browse All Categories"
+      },
+      "step2": {
+        "title": "Hire Freelancer",
+        "desc": "Browse profiles, compare proposals, and select the expert that best fits your project requirements.",
+        "link": "Browse All Categories"
+      },
+      "step3": {
+        "title": "Make Secure Payment",
+        "desc": "Pay securely for the completed work using our protected payment system, ensuring satisfaction before funds are released.",
+        "link": "Browse All Categories"
+      }
+    },
+    "categories": {
+      "badge": "Categories",
+      "title": "Browse by categories",
+      "subtitle": "The digital marketing solution provider for Ford Dealers",
+      "jobsAvailable": "jobs available",
+      "list": {
+        "retail": "Retail & Product",
+        "uiux": "UI/UX Design",
+        "finance": "Finance",
+        "hrd": "HRD",
+        "admin": "Admin Officer",
+        "education": "Education",
+        "tech": "Technology",
+        "social": "Social Media",
+        "content": "Content Writer",
+        "software": "Software"
+      }
+    },
+    "jobOfTheDay": {
+      "badge": "Marketplace",
+      "title": "Découvrez l'offre du jour",
+      "exploreBtn": "Explorer plus d'offres",
+      "applyBtn": "Postuler",
+      "categories": {
+        "designer": "Designer",
+        "admin": "Admin Officer",
+        "finance": "Finance Staff",
+        "content": "Content Writer",
+        "tech": "Technology",
+        "software": "Software",
+        "education": "Education"
+      }
+    },
+    "jobOfTheDay": {
+      "badge": "Marketplace",
+      "title": "Check Job of The Day",
+      "exploreBtn": "Explore More",
+      "applyBtn": "Apply",
+      "categories": {
+        "designer": "Designer",
+        "admin": "Admin Officer",
+        "finance": "Finance Staff",
+        "content": "Content Writer",
+        "tech": "Technology",
+        "software": "Software",
+        "education": "Education"
+      }
+    },
+    "testimonials": {
+      "title": "What Our Customers Are Saying About Us",
+      "subtitle": "Our comprehensive range of services is designed to address the diverse needs of our clients.",
+      "review1": {
+        "title": "Excellent Job Marketplace",
+        "text": "Companies outside the their also use Data Fanatics' services. We are now already active in the following countries?",
+        "author": "Barbara Ravindran",
+        "role": "Digital Marketer"
+      },
+      "review2": {
+        "title": "A Journey of Growth",
+        "text": "Companies outside the their also use Data Fanatics' services. We are now already active in the following countries?",
+        "author": "Ibrice",
+        "role": "Digital Marketer"
+      },
+      "review3": {
+        "title": "Excellent Job Service",
+        "text": "Companies outside the their also use Data Fanatics' services. We are now already active in the following countries?",
+        "author": "Barbara Ravindran",
+        "role": "Digital Marketer"
+      }
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "About Us",
+      "text": "World Of SUPPORT is an international nonprofit organization driven by a global network of dedicated volunteers. We are a platform connecting jobseekers to employers. Our mission is threefold: to mitigate unemployment and underemployment by facilitating access to the labor market; to deliver strategic humanitarian assistance and professional tools tailored to the needs of job seekers and apprentices.",
+      "btnText": "Read More"
+    },
+    "mission": {
+      "tagline": "OUR MISSION",
+      "title": "World Of SUPPORT",
+      "description": "An international organization driven by a global network of dedicated volunteers, prioritizing local advancement through youth empowerment.",
+      "pillars": {
+        "p1": {
+          "title": "Facilitating access to the job market",
+          "desc": "Mitigating unemployment and underemployment by directly connecting job seekers with relevant opportunities."
+        },
+        "p2": {
+          "title": "Humanitarian support and professional tools",
+          "desc": "Providing strategic assistance and professional tools tailored to the needs of job seekers and apprentices."
+        },
+        "p3": {
+          "title": "Centralized information hub",
+          "desc": "Disseminating critical insights on employment and entrepreneurship to the public, media, and policymakers."
+        }
+      }
+    }
+  }
+}

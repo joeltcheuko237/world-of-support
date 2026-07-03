@@ -1,0 +1,134 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Programmes & Services",
+    "news": "Actualités",
+    "contact": "Contact",
+    "login": "Connexion",
+    "register": "Inscription",
+    "dropdown": {
+      "jobs": "Opportunités d'emploi",
+      "training": "Formations",
+      "fellowships": "Fellowships & Bourses",
+      "employerResources": "Ressources employeurs",
+      "volunteering": "Bénévolat"
+    }
+  },
+  "Home": {
+    "heroTitle": "Trouvez les meilleurs talents pour vos projets",
+    "heroSubtitle": "Recrutez des experts qui utilisent l'IA pour amplifier leur talent, transformant un travail complexe en résultats commerciaux à fort impact.",
+    "tabHire": "Je veux recruter",
+    "tabWork": "Je cherche du travail",
+    "searchPlaceholder": "Décrivez ce dont vous avez besoin...",
+    "searchBtn": "Rechercher",
+    "skills": {
+      "web": "Design web",
+      "ai": "Développement IA",
+      "video": "Montage vidéo",
+      "ads": "Google Ads"
+    },
+    "trustedBy": "APPROUVÉ PAR PLUS DE 800 000 CLIENTS",
+    "howItWorks": {
+      "badge": "Comment ça marche",
+      "title": "C'est facile de faire avancer le travail",
+      "subtitle": "Le fournisseur de solutions numériques pour vos besoins professionnels",
+      "step1": {
+        "title": "Publier une offre",
+        "desc": "Créez votre annonce gratuitement dès aujourd'hui et commencez à recevoir des offres compétitives de professionnels qualifiés en quelques heures seulement.",
+        "link": "Parcourir les catégories"
+      },
+      "step2": {
+        "title": "Recruter un freelance",
+        "desc": "Parcourez les profils, comparez les propositions et sélectionnez l'expert qui correspond le mieux aux exigences de votre projet.",
+        "link": "Parcourir les catégories"
+      },
+      "step3": {
+        "title": "Paiement sécurisé",
+        "desc": "Payez en toute sécurité pour le travail accompli grâce à notre système de paiement protégé, garantissant votre satisfaction avant la libération des fonds.",
+        "link": "Parcourir les catégories"
+      }
+    },
+    "categories": {
+      "badge": "Catégories",
+      "title": "Parcourir par catégories",
+      "subtitle": "Le fournisseur de solutions de marketing numérique pour les concessionnaires Ford",
+      "jobsAvailable": "offres disponibles",
+      "list": {
+        "retail": "Commerce & Produit",
+        "uiux": "Design UI/UX",
+        "finance": "Finance",
+        "hrd": "Ressources Humaines",
+        "admin": "Administratif",
+        "education": "Éducation",
+        "tech": "Technologie",
+        "social": "Réseaux Sociaux",
+        "content": "Rédaction de contenu",
+        "software": "Logiciel"
+      }
+    },
+    "jobOfTheDay": {
+      "badge": "Marketplace",
+      "title": "Découvrez l'offre du jour",
+      "exploreBtn": "Explorer plus d'offres",
+      "applyBtn": "Postuler",
+      "categories": {
+        "designer": "Designer",
+        "admin": "Admin Officer",
+        "finance": "Finance Staff",
+        "content": "Content Writer",
+        "tech": "Technology",
+        "software": "Software",
+        "education": "Education"
+      }
+    },
+    "testimonials": {
+      "title": "Ce que nos clients disent de nous",
+      "subtitle": "Notre gamme complète de services est conçue pour répondre aux divers besoins de nos clients.",
+      "review1": {
+        "title": "Excellente plateforme d'emploi",
+        "text": "Les entreprises du monde entier utilisent nos services. Nous sommes désormais actifs et présents pour vous accompagner au quotidien.",
+        "author": "Barbara Ravindran",
+        "role": "Responsable Marketing"
+      },
+      "review2": {
+        "title": "Un parcours de croissance",
+        "text": "Les entreprises du monde entier utilisent nos services. Nous sommes désormais actifs et présents pour vous accompagner au quotidien.",
+        "author": "Ibrice",
+        "role": "Responsable Marketing"
+      },
+      "review3": {
+        "title": "Un service de recrutement de qualité",
+        "text": "Les entreprises du monde entier utilisent nos services. We are now already active in the following countries?",
+        "author": "Barbara Ravindran",
+        "role": "Responsable Marketing"
+      }
+    }
+  },
+  "About": {
+    "hero": {
+      "title": "About Us",
+      "text": "World Of SUPPORT est une organisation internationale à but non lucratif, portée par un réseau mondial de bénévoles dévoués. Nous sommes une plateforme qui met en relation les chercheurs d'emploi et les employeurs. Notre mission est triple : atténuer le chômage et le sous-emploi en facilitant l'accès au marché du travail ; fournir une assistance humanitaire stratégique et des outils professionnels adaptés aux besoins des chercheurs d'emploi et des apprentis.",
+      "btnText": "En savoir plus"
+    },
+    "mission": {
+      "tagline": "OUR MISSION",
+      "title": "World Of SUPPORT",
+      "description": "Une organisation internationale portée par un réseau mondial de bénévoles dévoués, priorisant le progrès local à travers l'autonomisation des jeunes.",
+      "pillars": {
+        "p1": {
+          "title": "Faciliter l'accès au marché du travail",
+          "desc": "Atténuer le chômage et le sous-emploi en mettant directement en relation les chercheurs d'emploi avec des opportunités pertinentes."
+        },
+        "p2": {
+          "title": "Soutien humanitaire et outils professionnels",
+          "desc": "Fournir une assistance stratégique et des outils professionnels adaptés aux besoins des chercheurs d'emploi et des apprentis."
+        },
+        "p3": {
+          "title": "Centre d'information centralisé",
+          "desc": "Diffuser des informations et analyses cruciales sur l'emploi et l'entrepreneuriat auprès du public, des médias et des décideurs politiques."
+        }
+      }
+    }
+  }
+}
