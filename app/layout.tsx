@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { ClerkProvider } from "@clerk/nextjs";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -33,9 +34,14 @@ export default async function RootLayout({
       lang={lng}
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col bg-gray-950 text-white selection:bg-green-500 selection:text-black">
-        {children}
-      </body>
+      {/* Placer ClerkProvider ici résout l'erreur d'hydratation 
+        car il n'interfère plus avec les attributs de la balise <html>
+      */}
+      <ClerkProvider>
+        <body className="min-h-full flex flex-col bg-gray-950 text-white selection:bg-green-500 selection:text-black">
+          {children}
+        </body>
+      </ClerkProvider>
     </html>
   );
 }

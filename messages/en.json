@@ -144,6 +144,87 @@
           "desc": "Disseminating critical insights on employment and entrepreneurship to the public, media, and policymakers."
         }
       }
+    },
+    "team": {
+      "title": "Meet Our Team",
+      "members": {
+        "robert": {
+          "name": "Robert Henry",
+          "role": "Tax Attorney",
+          "bio": "Expert in international taxation and legal support for non-profit organizations."
+        },
+        "sarah": {
+          "name": "Sarah Connor",
+          "role": "Operations Manager",
+          "bio": "Specialist in global logistics coordination and on-the-ground project deployment."
+        },
+        "trent": {
+          "name": "Trent Blake",
+          "role": "Technical Lead",
+          "bio": "Architect of digital solutions dedicated to employment accessibility and solidarity platforms."
+        },
+        "jos": {
+          "name": "Jos Butler",
+          "role": "Humanitarian Coordinator",
+          "bio": "Responsible for partnerships and monitoring learning tools for young apprentices."
+        }
+      }
     }
+  },
+  "Auth": {
+    "register": {
+      "slogan": "Together, We Build the Skills for a Brighter Future."
+    },
+    "login": {
+      "slogan": "Together, We Build the Skills for a Brighter Future."
+    }
+  },
+  "Onboarding": {
+    "title": "Welcome to World of Support!",
+    "subtitle": "To get started, what is your profile?",
+    "recruiterTitle": "I am a Recruiter",
+    "recruiterDesc": "I want to post opportunities and find talent.",
+    "seekerTitle": "I am a Job Seeker",
+    "seekerDesc": "I want to apply for jobs and develop my skills.",
+    "submitBtn": "Confirm and continue",
+    "loading": "Saving..."
+  },
+  "employer": {
+    "loading": "Loading company dashboard...",
+    "defaultCompanyName": "Company Name",
+    "tabInfo": "Company Information",
+    "tabPublish": "Post a Job",
+    "logout": "Log Out",
+    "officialName": "Official Name",
+    "website": "Website",
+    "contactEmail": "Contact Email",
+    "address": "Headquarters (Address)",
+    "phone": "Business Phone",
+    "foundedDate": "Founded Date",
+    "location": "Location",
+    "postalCode": "Postal Code",
+    "discard": "Discard Changes",
+    "save": "Save Changes",
+    "publishTitle": "Publish a new job offer",
+    "jobTitle": "Job Title",
+    "jobDescription": "Job Description",
+    "jobQualifications": "Required Qualifications",
+    "btnPublishJob": "Post Job"
+  },
+  "employee": {
+    "loading": "Loading...",
+    "logout": "Log Out",
+    "tabProfile": "My Profile",
+    "tabApplications": "My Applications",
+    "fullName": "Full Name",
+    "professionalTitle": "Professional Title",
+    "contactEmail": "Contact Email",
+    "skills": "Skills",
+    "qualifications": "Qualifications & Degrees",
+    "bio": "Biography",
+    "save": "Save Profile",
+    "profileSuccess": "Profile updated successfully!",
+    "profileError": "An error occurred while saving.",
+    "noApplications": "No applications yet."
   }
 }
