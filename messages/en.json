@@ -226,5 +226,14 @@
     "profileSuccess": "Profile updated successfully!",
     "profileError": "An error occurred while saving.",
     "noApplications": "No applications yet."
+  },
+  "news": {
+    "title": "News & Blog",
+    "subtitle": "Follow the latest platform announcements and our exclusive tips.",
+    "all": "All",
+    "blogs": "Blog Posts",
+    "announcements": "Announcements",
+    "noArticles": "No articles found in this category.",
+    "readMore": "Read more"
   }
 }

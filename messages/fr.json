@@ -211,5 +211,14 @@
     "profileSuccess": "Mon profil a été mis à jour avec succès !",
     "profileError": "Une erreur est survenue lors de l'enregistrement.",
     "noApplications": "Aucune candidature pour le moment."
+  },
+  "news": {
+    "title": "Actualités & Blog",
+    "subtitle": "Suivez les dernières annonces de la plateforme et nos conseils exclusifs.",
+    "all": "Tout voir",
+    "blogs": "Articles Blog",
+    "announcements": "Annonces",
+    "noArticles": "Aucun article trouvé dans cette catégorie.",
+    "readMore": "Lire la suite"
   }
 }
