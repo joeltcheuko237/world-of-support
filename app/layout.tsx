@@ -18,25 +18,22 @@ export const metadata: Metadata = {
   description: "Plateforme de mise en relation professionnels et clients",
 };
 
-// Next.js injecte automatiquement les paramètres d'URL (comme [lng]) dans le layout
 export default async function RootLayout({
   children,
   params,
 }: Readonly<{
   children: React.ReactNode;
-  params: Promise<{ lng: string }>;
+  params: Promise<{ lng?: string }>; // 🛠️ 'lng' est maintenant optionnel pour satisfaire le validateur Next.js
 }>) {
-  // On récupère dynamiquement la langue actuelle (fr ou en)
+  // On récupère la langue actuelle avec une valeur par défaut en cas d'absence à la racine
   const { lng } = await params;
+  const currentLng = lng || "fr"; 
 
   return (
     <html
-      lang={lng}
+      lang={currentLng}
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      {/* Placer ClerkProvider ici résout l'erreur d'hydratation 
-        car il n'interfère plus avec les attributs de la balise <html>
-      */}
       <ClerkProvider>
         <body className="min-h-full flex flex-col bg-gray-950 text-white selection:bg-green-500 selection:text-black">
           {children}
