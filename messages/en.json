@@ -235,5 +235,12 @@
     "announcements": "Announcements",
     "noArticles": "No articles found in this category.",
     "readMore": "Read more"
+  },
+  "jobs": {
+    "title": "Job Board",
+    "subtitle": "Explore the professional opportunities published by our verified recruiters.",
+    "noJobs": "No job offers are available at the moment. Check back later!",
+    "qualificationsLabel": "Required Qualifications",
+    "applyBtn": "Apply to this job"
   }
 }
